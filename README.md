@@ -1,8 +1,12 @@
 <div align="center">
 
-# Nicolas Dos Santos
+<img src="assets/header.svg" width="100%" alt="Nicolas Dos Santos — Builder · Founder · Engineer"/>
 
-**Full-Stack · iOS · AI/ML · Systems · Infrastructure**
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products+%E2%80%94+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+infrastructure;from+idea+to+App+Store+to+production" alt="Typing SVG" /></a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas2007/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndossantos@ucsd.edu)
@@ -10,75 +14,74 @@
 
 </div>
 
----
+<br/>
 
-I build across the entire stack — from enterprise .NET backends and real-time WebSocket pipelines to native iOS apps in production and self-hosted AI agent infrastructure on bare metal. Math-CS @ UC San Diego.
+I ship products across the full stack — native iOS apps on the App Store, real-time systems with sub-second pipelines, and autonomous AI agents running 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
 
----
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%" alt=""/>
+</div>
 
-### Languages
+## What I've Shipped
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | What It Does | Stack | Status |
+|---------|-------------|-------|--------|
+| **Dressr** | AI-powered virtual try-on — snap a photo, see clothes on you | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store, B2B signed |
+| **CTRL** | Screen time & parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
+| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026 — Best Climate Hack |
+| **[World Monitor](https://github.com/nicholasgriffintn/world-monitor)** | Real-time OSINT dashboard with multi-domain search | TypeScript · WebSockets · Redis · deck.gl · MapLibre | Open source contributor |
+| **Claude Code Command Center** | VS Code extension to manage Claude Code agents, workflows, and costs | TypeScript · React · FastAPI · SQLite · MCP | Active development |
+| **Jarvis** | 24/7 autonomous AI agents on Raspberry Pi 5 | n8n · Claude API · Docker · NVMe | Running in production |
 
-### Frameworks & Libraries
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%" alt=""/>
+</div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-147EFB?style=for-the-badge&logo=apple&logoColor=white)
-
-### Tools & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### AI / ML
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=webrtc&logoColor=white)
-
----
-
-### What I Build
-
-- **Production iOS apps** — shipping SwiftUI apps on the App Store with Firebase auth, Core Data persistence, and AI-powered features
-- **Enterprise .NET systems** — developing and maintaining production applications at UC San Diego ITS alongside senior engineers
-- **Autonomous AI agents** — running 24/7 multi-agent workflows on a Raspberry Pi 5 (8GB + NVMe) orchestrating marketing, research, and operations via n8n and Claude API
-- **Real-time systems** — parallel multi-domain search with WebSockets, Redis caching, and sub-second response pipelines
-- **Developer tools** — Chrome extensions, MCP servers, and VS Code extensions for AI token optimization and environmental impact tracking
-- **Computer vision** — real-time pose estimation and object detection pipelines using MediaPipe with sub-100ms voice AI feedback loops
-
----
+## Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewCoder3294&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-*Most repos are private. Reach out if you want to see something specific.*
+**Build With**<br/>
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI / ML**<br/>
+![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=webrtc&logoColor=white)
+
+**Infrastructure**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%" alt=""/>
+</div>
+
+<div align="center">
+
+**Building something interesting? [Let's talk.](https://www.linkedin.com/in/nicolas2007/)**
 
 </div>
