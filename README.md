@@ -16,7 +16,7 @@
 
 <br/>
 
-I ship products across the full stack — native iOS apps on the App Store, real-time systems with sub-second pipelines, and autonomous AI agents running 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
+I ship products end to end — and right now most of that is **STRVX Robotics**, where I'm building offline multi-drone autonomy and tactical overwatch for GPS-denied environments. Alongside it: native iOS apps on the App Store, real-time intelligence dashboards, and autonomous AI agents running 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
 
 <div align="center">
 <img src="assets/wave-divider.svg" width="100%" alt=""/>
@@ -26,12 +26,16 @@ I ship products across the full stack — native iOS apps on the App Store, real
 
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
-| **Dressr** | AI-powered virtual try-on — snap a photo, see clothes on you | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store, B2B signed |
+| **[STRVX Robotics](https://strvxrobotics.com)** | Offline multi-drone autonomy & tactical overwatch — one operator commands 1–6 ISR drones in GPS-denied environments | Next.js · TypeScript · Supabase · Vercel | **Live · founder** |
+| **[Dressr](https://dressr.app)** | AI-powered virtual try-on — snap a photo, see clothes on you | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store, B2B signed |
 | **CTRL** | Screen time & parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
-| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026 — Best Climate Hack |
-| **[World Monitor](https://github.com/nicholasgriffintn/world-monitor)** | Real-time OSINT dashboard with multi-domain search | TypeScript · WebSockets · Redis · deck.gl · MapLibre | Open source contributor |
-| **Claude Code Command Center** | VS Code extension to manage Claude Code agents, workflows, and costs | TypeScript · React · FastAPI · SQLite · MCP | Active development |
+| **[Claude Control Panel](https://github.com/NewCoder3294/claude-control-panel)** | Local web UI to manage everything Claude Code reads — CLAUDE.md, memory, MCP, skills, settings | TypeScript · React · Node | Open source (MIT) |
+| **[watchdog](https://github.com/NewCoder3294/watchdog)** | Real-time civic monitoring dashboard for SF — incidents, cameras, alerts & dispatch signals | TypeScript · Next.js · real-time | Open source |
+| **[paperstack](https://github.com/NewCoder3294/paperstack)** | Local-first research-paper platform — arXiv discovery, local RAG Q&A, PDF reader, research subagents | Local-first · RAG · arXiv | Open source |
+| **[BroadcastBrain](https://github.com/NewCoder3294/broadcastbrain-landing)** | On-device AI co-pilot for sports broadcasters | On-device LLM · TypeScript | YC Voice Agents Hackathon 2026 |
+| **[World Monitor](https://github.com/koala73/worldmonitor)** | Real-time OSINT dashboard — multi-domain global intelligence | TypeScript · WebSockets · deck.gl · MapLibre | Open source contributor · 59k★ |
 | **Jarvis** | 24/7 autonomous AI agents on Raspberry Pi 5 | n8n · Claude API · Docker · NVMe | Running in production |
+| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026 — Best Climate Hack |
 
 <div align="center">
 <img src="assets/wave-divider.svg" width="100%" alt=""/>
@@ -57,6 +61,7 @@ I ship products across the full stack — native iOS apps on the App Store, real
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **AI / ML**<br/>
