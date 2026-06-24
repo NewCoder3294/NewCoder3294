@@ -8,8 +8,9 @@
 
 <br/>
 
-<a href="https://strvx.com"><img src="assets/strvx-badge.png" height="30" alt="STRVX"/></a>
-<a href="https://strvxrobotics.com"><img src="assets/strvx-robotics-badge.png" height="30" alt="STRVX Robotics"/></a>
+<a href="https://strvx.com"><img src="assets/strvx-badge.png" height="48" alt="STRVX"/></a>
+&nbsp;&nbsp;
+<a href="https://strvxrobotics.com"><img src="assets/strvx-robotics-badge.png" height="48" alt="STRVX Robotics"/></a>
 
 </div>
 
@@ -33,7 +34,7 @@ I build companies and the software behind them. My main focus is **STRVX Robotic
 | **[BroadcastBrain](https://github.com/NewCoder3294/broadcastbrain-landing)** | On-device AI co-pilot for sports broadcasters | On-device LLM · TypeScript | YC Voice Agents Hackathon 2026 |
 | **[World Monitor](https://github.com/koala73/worldmonitor)** | Real-time OSINT dashboard for multi-domain global intelligence | TypeScript · WebSockets · deck.gl · MapLibre | Open source contributor · 59k★ |
 | **Jarvis** | 24/7 autonomous AI agents on Raspberry Pi 5 | n8n · Claude API · Docker · NVMe | Running in production |
-| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026, Best Climate Hack |
+| **[EcoMind](https://www.eco-mind.tech/)** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026, Best Climate Hack |
 | **[CTRL](http://tryctrl.tech/)** | Screen time and parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
 | **[Dressr](https://dressr.app)** | AI virtual try-on. Snap a photo, see clothes on you. | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store |
 
