@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas2007/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndossantos@ucsd.edu)
-[![STRVX](https://img.shields.io/badge/STRVX-111111?style=for-the-badge)](https://strvx.com)
-[![STRVX Robotics](https://img.shields.io/badge/STRVX_Robotics-0A0A0A?style=for-the-badge)](https://strvxrobotics.com)
+<a href="https://strvx.com"><img src="assets/strvx-badge.png" height="30" alt="STRVX"/></a>
+<a href="https://strvxrobotics.com"><img src="assets/strvx-robotics-badge.png" height="30" alt="STRVX Robotics"/></a>
 
 </div>
 
