@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Nicolas Dos Santos — Builder · Founder · Engineer"/>
+<img src="assets/header.svg" width="100%" alt="Nicolas Dos Santos · Builder · Founder · Engineer"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products+%E2%80%94+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+infrastructure;from+idea+to+App+Store+to+production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=shipping+products%2C+not+just+writing+code;full-stack+%C2%B7+iOS+%C2%B7+AI%2FML+%C2%B7+robotics;from+idea+to+production+to+the+field" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas2007/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndossantos@ucsd.edu)
-[![Dressr](https://img.shields.io/badge/Dressr-000000?style=for-the-badge&logo=apple&logoColor=white)](https://dressr.app/)
+[![STRVX](https://img.shields.io/badge/STRVX-111111?style=for-the-badge)](https://strvx.com)
+[![STRVX Robotics](https://img.shields.io/badge/STRVX_Robotics-0A0A0A?style=for-the-badge)](https://strvxrobotics.com)
 
 </div>
 
 <br/>
 
-I ship products end to end — and right now most of that is **STRVX Robotics**, where I'm building offline multi-drone autonomy and tactical overwatch for GPS-denied environments. Alongside it: native iOS apps on the App Store, real-time intelligence dashboards, and autonomous AI agents running 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
+I build companies and the software behind them. My main focus is **STRVX Robotics**: offline multi-drone autonomy and tactical overwatch for GPS-denied environments, VC-backed and currently in Founders Inc Off Season II. I also run **STRVX**, an AI consultancy that ships internal AI tools, document pipelines, and automated reporting for real businesses. On the side I build native iOS apps, real-time intelligence dashboards, and autonomous AI agents that run 24/7 on bare metal. Math-CS @ UC San Diego. SWE @ UCSD ITS. Cyber Defense Ops @ CA Air National Guard.
 
 <div align="center">
 <img src="assets/wave-divider.svg" width="100%" alt=""/>
@@ -26,16 +27,16 @@ I ship products end to end — and right now most of that is **STRVX Robotics**,
 
 | Project | What It Does | Stack | Status |
 |---------|-------------|-------|--------|
-| **[STRVX Robotics](https://strvxrobotics.com)** | Offline multi-drone autonomy & tactical overwatch — one operator commands 1–6 ISR drones in GPS-denied environments | Next.js · TypeScript · Supabase · Vercel | **Live · founder** |
-| **[Dressr](https://dressr.app)** | AI-powered virtual try-on — snap a photo, see clothes on you | SwiftUI · FastAPI · MediaPipe · Stripe | Live on App Store, B2B signed |
-| **CTRL** | Screen time & parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
-| **[Claude Control Panel](https://github.com/NewCoder3294/claude-control-panel)** | Local web UI to manage everything Claude Code reads — CLAUDE.md, memory, MCP, skills, settings | TypeScript · React · Node | Open source (MIT) |
-| **[watchdog](https://github.com/NewCoder3294/watchdog)** | Real-time civic monitoring dashboard for SF — incidents, cameras, alerts & dispatch signals | TypeScript · Next.js · real-time | Open source |
-| **[paperstack](https://github.com/NewCoder3294/paperstack)** | Local-first research-paper platform — arXiv discovery, local RAG Q&A, PDF reader, research subagents | Local-first · RAG · arXiv | Open source |
+| **[STRVX Robotics](https://strvxrobotics.com)** | Offline multi-drone autonomy and tactical overwatch. One operator commands 1 to 6 ISR drones in GPS-denied environments. | Next.js · TypeScript · Supabase · Vercel | **VC-backed · Founders Inc Off Season II** |
+| **[STRVX](https://strvx.com)** | AI consultancy shipping internal AI tools, document pipelines, data extraction, and automated reporting. Fixed scope, fixed price. | Next.js · TypeScript · Supabase · Claude API | Live · founder |
+| **CTRL** | Screen time and parental controls for iOS | SwiftUI · Firebase · ScreenTime API · RevenueCat | In production |
+| **[Claude Control Panel](https://github.com/NewCoder3294/claude-control-panel)** | Local web UI to manage everything Claude Code reads: CLAUDE.md, memory, MCP, skills, settings | TypeScript · React · Node | Open source (MIT) |
+| **[watchdog](https://github.com/NewCoder3294/watchdog)** | Real-time civic monitoring dashboard for SF: incidents, cameras, alerts, and dispatch signals | TypeScript · Next.js · real-time | Open source |
+| **[paperstack](https://github.com/NewCoder3294/paperstack)** | Local-first research-paper platform: arXiv discovery, local RAG Q&A, PDF reader, research subagents | Local-first · RAG · arXiv | Open source |
 | **[BroadcastBrain](https://github.com/NewCoder3294/broadcastbrain-landing)** | On-device AI co-pilot for sports broadcasters | On-device LLM · TypeScript | YC Voice Agents Hackathon 2026 |
-| **[World Monitor](https://github.com/koala73/worldmonitor)** | Real-time OSINT dashboard — multi-domain global intelligence | TypeScript · WebSockets · deck.gl · MapLibre | Open source contributor · 59k★ |
+| **[World Monitor](https://github.com/koala73/worldmonitor)** | Real-time OSINT dashboard for multi-domain global intelligence | TypeScript · WebSockets · deck.gl · MapLibre | Open source contributor · 59k★ |
 | **Jarvis** | 24/7 autonomous AI agents on Raspberry Pi 5 | n8n · Claude API · Docker · NVMe | Running in production |
-| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026 — Best Climate Hack |
+| **EcoMind** | AI carbon footprint tracker for dev workflows | Python · Claude API · MCP | SF Hacks 2026, Best Climate Hack |
 
 <div align="center">
 <img src="assets/wave-divider.svg" width="100%" alt=""/>
